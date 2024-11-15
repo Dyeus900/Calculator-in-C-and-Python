@@ -1,1 +1,1 @@
-# Calculator-in-C-and-Python
+A simple calculator, in C and Python.
